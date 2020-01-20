@@ -1,0 +1,1 @@
+F9::SendInput,% "{RButton "((toggle:=!toggle)?"Down":"Up")"}"

@@ -1,0 +1,1 @@
+F10::SendInput,% "{LButton "((toggle:=!toggle)?"Down":"Up")"}"
